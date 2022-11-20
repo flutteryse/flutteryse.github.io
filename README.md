@@ -57,4 +57,4 @@ here, I'm assembling a resources of Flutter centered programming, Development. I
 
 if you like about this collection, tip me a cup of tea to encourage my further compilation
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TDQOtnWgsBx99cNoyH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-sticker-TDQOtnWgsBx99cNoyH">via GIPHY</a></p>
+<img src="https://user-images.githubusercontent.com/1146195/202917461-3c4f6910-fbc6-4ebb-a7ad-615ad5bed245.png" width="280">

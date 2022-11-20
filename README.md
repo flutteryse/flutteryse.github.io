@@ -57,4 +57,5 @@ here, I'm assembling a resources of Flutter centered programming, Development. I
 
 if you like about this collection, tip me a cup of tea to encourage my further compilation
 
-<img src="https://user-images.githubusercontent.com/1146195/202917461-3c4f6910-fbc6-4ebb-a7ad-615ad5bed245.png" width="280">
+<img src="https://user-images.githubusercontent.com/1146195/202917461-3c4f6910-fbc6-4ebb-a7ad-615ad5bed245.png" width="280" />
+[Sponsor a cup of tea](https://www.buymeacoffee.com/divineforge)
